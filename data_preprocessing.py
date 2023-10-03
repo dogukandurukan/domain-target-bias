@@ -6,7 +6,7 @@ from collections import Counter
 from argparse import ArgumentParser
 from collections import defaultdict
 import numpy as np
-from openpyxl import load_workbook
+
 
 
 data_pickle = "/Users/dogukandurukan/Desktop/Thesis/domain-target-bias/datasets/intrasentence/df_intrasentence_en.pkl"
